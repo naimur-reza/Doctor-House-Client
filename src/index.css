@@ -5,3 +5,7 @@
 .my-container {
   @apply max-w-6xl mx-auto;
 }
+
+.btn {
+  @apply bg-[#F7A582] px-3 py-4 text-sm rounded-lg;
+}
